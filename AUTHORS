@@ -1,0 +1,6 @@
+# AirBnB clone authors: 
+# - Rida Essahi
+
+# This is the main file for the AirBnB clone project. It contains authors and version information.
+
+__version__ = '1.0's
